@@ -8,7 +8,7 @@ import (
 
 	"github.com/jmhodges/levigo"
 
-	. "github.com/neatio-net/common-go"
+	"github.com/neatio-net/common-go"
 )
 
 func init() {
