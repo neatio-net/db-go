@@ -7,7 +7,6 @@ import (
 	"path"
 
 	"github.com/jmhodges/levigo"
-
 	"github.com/neatio-net/common-go"
 )
 
