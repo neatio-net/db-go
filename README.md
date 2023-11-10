@@ -1,1 +1,1 @@
-# db-go
+# DB Go Library
